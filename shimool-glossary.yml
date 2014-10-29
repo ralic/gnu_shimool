@@ -1,0 +1,318 @@
+#
+# shimool-glossary.yml
+# Copyright (C) 2014 Salman Mohammadi <salman@ubuntu.ir>
+#
+# Shimool Glossary is free software: you can redistribute it and/or modify it
+# under the terms of the GNU General Public License as published by the
+# Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# Shimool Glossary is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along
+# with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+
+-
+  en: ACI
+    en_redirect: American Concrete Institute
+-
+  en: allowable
+  fa: مجاز
+-
+  en: allowable stress
+  fa: تنش مجاز
+-
+  en: American Concrete Institute
+  fa: انجمن بتن آمریکا
+-
+  en: American Society of Civil Engineers
+  fa: انجمن مهندسین عمران آمریکا
+-
+  en: analysis
+  fa: آنالیز
+-
+  en: angle
+  fa: زاویه
+-
+  en: angle of twist
+  fa: زاویه‌ی پیچش
+-
+  en: ASCE
+    en_redirect: American Society of Civil Engineers
+-
+  en: ash
+  fa: خاکستر
+-
+  en: axial
+  fa:محوری
+-
+  en: axial bending
+  fa: خمش محوری
+-
+  en: axial compression
+  fa: فشار محوری
+-
+  en: axial tension
+  fa: کشش محوری
+-
+  en: axially loaded members
+  fa:
+-
+  en: axis
+  fa: محور
+-
+  en: beam
+  fa: تیر
+-
+  en: beam-column
+  fa: تیر-ستون
+-
+  en: beam-column design
+  fa: طراحی تیر-ستون
+-
+  en: capacity
+  fa: ظرفیت
+-
+  en: coefficient
+  fa: ضریب
+-
+  en: column
+  fa: ستون
+-
+  en: combination
+  fa: ترکیب
+-
+  en: compression force
+  fa: نیروی فشاری
+-
+  en: concrete structure
+  fa: سازه بتنی
+-
+  en: connection
+  fa: اتصال
+-
+  en: criteria
+  fa: معیارها
+-
+  en: criterion
+  fa: معیار
+-
+  en: dead load
+  fa: بارمرده
+-
+  en: deformation
+  fa: تغییر شکل
+-
+  en: design
+  fa: طراحی
+-
+  en: design criteria
+  fa: معیارهای طراحی
+-
+  en: distance
+  fa: فاصله
+-
+  en: dynamic
+  fa: دینامیک، پویا
+-
+  en: dynamic load
+  fa: بار دینامیکی
+-
+  en: dynamics
+  fa: دینامیک
+-
+  en: earthquake
+  fa: زلزله
+-
+  en: earthquake load
+  fa: بار زلزله
+-
+  en: eccentric
+  fa: برون‌محوری
+-
+  en: eccentric load
+  fa: ‌بار برون‌محوری
+-
+  en: eccentric shear
+  fa: برش برون‌محوری
+-
+  en: edge
+  fa: لبه
+-
+  en: edge distance
+  fa: فاصله از لبه
+-
+  en: effective
+  fa: موثر
+-
+  en: effective length
+  fa: طول موثر
+-
+  en: elastic
+  fa: الاستیک
+-
+  en: elastic beam
+  fa: تیر الاستیک
+-
+  en: elastic column
+  fa: ستون الاستیک
+-
+  en: elastic stability
+  fa: پایداری الاستیک
+-
+  en: energy
+  fa: انرژی
+-
+  en: energy method
+  fa: روش انرژی
+-
+  en: factor
+  fa: فاکتور، ضریب
+-
+  en: factor of safety
+  fa: ضریب ایمنی
+-
+  en: flange
+  fa: بال (تیر)
+-
+  en: force
+  fa: نیرو
+-
+  en: frame
+  fa: قاب
+-
+  en: hole
+  fa: سوراخ
+-
+  en: I-shaped
+  fa: آی-شکل
+-
+  en: lateral
+  fa: جانبی
+-
+  en: live load
+  fa: بار زنده
+-
+  en: load
+  fa: بار
+-
+  en: loading
+  fa: بارگذاری
+-
+  en: moment
+  fa: ممان
+-
+  en: multistory
+  fa: چندطبقه
+-
+  en: neutral
+  fa: خنثی
+-
+  en: one-story frame
+  fa: قاب یک طبقه
+-
+  en: pipe
+  fa: لوله
+-
+  en: plastic analysis
+  fa: آنالیز پلاستیک
+-
+  en: plastic deformation
+  fa: تغییر شکل پلاستیک
+-
+  en: plastic design
+  fa: طراحی پلاستیک
+-
+  en: plastic moment
+  fa: ممان پلاستیک
+-
+  en: plastic strength
+  fa: توان پلاستیک
+-
+  en: reduction
+  fa: کاهش
+-
+  en: reduction coefficient
+  fa: ظریب کاهش
+-
+  en: resistance
+  fa: مقاومت
+-
+  en: safety factor
+  fa: ضریب ایمنی
+-
+  en: shear
+  fa: برش
+-
+  en: shear strength
+  fa: توان برش
+-
+  en: simple connection
+  fa: اتصال ساده
+-
+  en: slab
+  fa: دال
+-
+  en: slender
+  fa: لاغر
+-
+  en: slenderness
+  fa: لاغری
+-
+  en: stability
+  fa: پایداری
+-
+  en: stable
+  fa: پایدار
+-
+  en: static
+  fa: استاتیک
+-
+  en: statics
+  fa: استاتیک
+-
+  en: steel
+  fa: فولاد
+-
+  en: steel structure
+  fa: سازه‌های فولادی
+-
+  en: story
+  fa: طبقه
+-
+  en: tensile stress
+  fa: تنش کششی
+-
+  en:  tension
+  fa: کشش
+-
+  en: tension force
+  fa: نیروی کششی
+-
+  en: tension member
+  fa: عضو کششی
+-
+  en: thickness
+  fa: کلفتی
+-
+  en: web
+  fa: جان (تیر)
+-
+  en: weld
+  fa: جوشکاری
+-
+  en: weld capacity
+  fa: ظرفیت جوش
+-
+  en: welding
+  fa: جوشکاری
+-
+  en: width
+  fa: عرض
+
+# This file was created on Trisquel GNU/Linux 7 using Atom text editor.
